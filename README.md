@@ -20,6 +20,6 @@ Please be advised that each message must not exceed 200 characters. We encourage
 AI-generated responses for the assistant are produced using the Cohere API. To produce pertinent responses, it processes user messages.
 # Deployment 
 AI-generated responses for the assistant are produced using the Cohere API. To produce pertinent responses, it processes user messages.
-#ScreenShot
-
+# ScreenShot
+![Images](Images/WasteX_ScreenShot.PNG)
 
